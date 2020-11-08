@@ -5,7 +5,7 @@ Now, In this project i will share how to connect ESP32CAM with Firebase Realtime
 a. Install USB TLL to your computer device. You can download it from https://berbageilmu.blogspot.com/2017/05/solusi-driver-usb-pl2303-tidak-bisa-di.html<br />
 b. Install ESP32 library to your Arduino IDE. Please follow step by step from https://dt-production.com/?p=346
 
-You can also follow the wiring esp32cam below:
+You can also follow this schematic esp32cam below:
 
 ![ESP32CAM](https://user-images.githubusercontent.com/49858542/98482314-31da5200-2233-11eb-8d07-6298a27a4be8.png)
 
