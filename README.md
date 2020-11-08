@@ -12,7 +12,7 @@ You can also follow the wiring esp32cam below:
 ###### VCC = 3.3v
 
 c. Install the library Firebase to your Arduino IDE. You can download from https://github.com/ioxhop/IOXhop_FirebaseESP32<br />
-d. Copy Token and paste on Firebase Auth and Token/Key
+d. Copy Token and paste on Firebase Host and Auth
 
   link Firebase
 
@@ -23,6 +23,7 @@ d. Copy Token and paste on Firebase Auth and Token/Key
 
 ![sdfg](https://user-images.githubusercontent.com/49858542/90312054-8cf9f280-df2b-11ea-96e4-4515ad7d35aa.png) 
 <br />
+Enjoy!!!
 <br />
 <br />
 <br />
