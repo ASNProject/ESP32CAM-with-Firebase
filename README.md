@@ -1,5 +1,5 @@
 # ESP32CAM-with-Firebase
-Now, In this project i will share how to connect ESP32CAM with Firebase Realtime Database. This project i ty to send ip address from the ESP32 to database.  
+Now, In this project i will share how to connect ESP32CAM with Firebase Realtime Database. This project i try to send ip address from the ESP32 to database.  
 
 ## Setup and Installation
 a. Install USB TLL to your computer device. You can download it from https://berbageilmu.blogspot.com/2017/05/solusi-driver-usb-pl2303-tidak-bisa-di.html<br />
