@@ -36,7 +36,7 @@
 const char* ssid = "BAROKAH";
 const char* password = "alwi1973";
 #define FIREBASE_HOST "https://esp32camfirebase.firebaseio.com/"
-#define FIREBASE_AUTH "4aY1B2jMnEssHyjG43jz8foFrMjDVAQBOvVkqngo"
+#define FIREBASE_AUTH "4aY1B2jMnEssHyjG43jz8foxxxxxxxxxxxxxxxx"
 
 
 #define PART_BOUNDARY "123456789000000000000987654321"
