@@ -7,7 +7,7 @@ b. Install ESP32 library to your Arduino IDE. Please follow step by step from ht
 
 You can also follow this schematic esp32cam below:
 
-![ESP32CAM](https://user-images.githubusercontent.com/49858542/98482314-31da5200-2233-11eb-8d07-6298a27a4be8.png)
+![2af02e53-007d-4e69-967e-f3843688ff83](https://user-images.githubusercontent.com/49858542/101568721-b3c1c480-3a05-11eb-9f2d-dcc4f931f330.jpg)
 
 ###### VCC = 3.3v
 
